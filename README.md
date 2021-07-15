@@ -1,23 +1,31 @@
-# gallery
+# Getting Started
+These steps will get this Web application running on your local machine as a Front-end task <br/> 
+using Vue.js framework.
 
-## Project setup
+1. Download Node (v14.17.1): <br/>
+https://nodejs.org/pt-br/download/releases/
+   
+
+2. In the current folder project (***./galleryweb***), setup project:
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## Development environment  
+Compiles and hot-reloads: 
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+## Production environment  
+1. Compiles and minifies: 
 ```
 npm run build
 ```
 
-### Lints and fixes files
+2. Run:
 ```
-npm run lint
+node server.js
 ```
 
 ### Customize configuration
